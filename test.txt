@@ -1,3 +1,1 @@
-Hello World
-
-This is a new branch called test!
+This is just a test
