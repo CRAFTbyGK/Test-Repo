@@ -1,5 +1,3 @@
 Hello World
 
 This is a new branch called test!
-
-Added some random stuff
